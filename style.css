@@ -1,0 +1,34 @@
+/*b, h1, intro-paragraph, h2,*/
+/*
+olive: #606C38
+cream: #FEFAE0
+orange: #DDA15E
+*/
+body {
+  background-color: #fefae0;
+  text-align: center;
+}
+
+h1 {
+  color: #dda15e;
+  font-size: 60px;
+  font-family: "Limelight", sans-serif;
+  line-height: 1;
+  letter-spacing: 10px;
+}
+
+#intro-paragraph {
+  font-size: 25px;
+  color: #dda15e;
+}
+
+h2 {
+}
+
+img {
+  width: 200px;
+}
+
+a {
+  color: #606c38;
+}
